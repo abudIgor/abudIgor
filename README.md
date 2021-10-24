@@ -1,5 +1,5 @@
 - 👋 Hello everyone, I’m @abudIgor
-- 👀 I'm courging Electrical Engineer at Universidade Federal de Juiz de Fora
+- 👀 I'm Electrical Engineer (Universidade Federal de Juiz de Fora)
 - 🌱 Acctually, i'm Software Engenineer at LEVTY
 - 💞️ I'm working with Javascript, webservices, external integrations and API REST
 - 📫 You can reach me on linkedin.com/in/eng-igor-abud/ or (32) 991488518
